@@ -7,7 +7,6 @@
 
 So B will depends on A (Because B has to have the callback function which is sent by A, so B init after A init)
 ```
-callback.cpp
-test_callback.cpp
+cd callback
 ``` 
 
