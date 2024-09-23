@@ -22,7 +22,6 @@ private:
     OnSendCallback mSender;
 };
 
-
 class A {
 public:
     A () {

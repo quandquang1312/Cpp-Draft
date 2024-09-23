@@ -1,3 +1,6 @@
 # Ignore .out , .exe file
 *.out
 *.exe
+
+# Ignore .vscode folder
+/.vscode/
