@@ -1,7 +1,7 @@
 /* 
 == TESTING CALLBACK PASSING ==
 == Testing the callback function passing from class A to class B
-== The lambda function call back created in A and pass to B
+== The lambda callback function created in A and pass to B
 == B will use it whenever neccessary 
 */
 
