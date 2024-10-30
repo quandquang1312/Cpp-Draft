@@ -22,7 +22,7 @@ class B {
 };
 ```
 
-Instead we will have EventBus protocol. Each class wll have to Subscribe for the topics. Once a component submit a change,
+Instead we will have EventBus protocol. Each class will have to Subscribe for the topics. Once a component submit a change,
 it will Publish it, the Subscribers will receive it.
 
 ```
